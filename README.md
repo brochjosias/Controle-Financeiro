@@ -6,7 +6,7 @@ Visão Geral: O sistema oferece uma solução abrangente para manter suas finan�
 
 Funcionalidades: Inserir, ler, atualizar e deletar finanças. Gera valor Total de entradas e saídas mais o valor restante.
 
-Tecnologias Utilizadas: Linguagens de Programação: JavaScript; Frameworks: React; Banco de Dados: Local Storage;
+Tecnologias Utilizadas: Linguagens de Programação: JavaScript, HTML e CSS; Frameworks: React; Banco de Dados: Local Storage;
 
 Configuração do Ambiente de Desenvolvimento, siga estas etapas:
 
